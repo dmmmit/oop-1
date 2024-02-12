@@ -14,6 +14,8 @@ public:
         return 2 * (width + height);
     }
 
+    ~rectangle() {
 
+    }
 
 };
