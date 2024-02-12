@@ -10,5 +10,10 @@ public:
         return width * height;
     }
 
+    double getPerimeter() {
+        return 2 * (width + height);
+    }
+
+
 
 };
